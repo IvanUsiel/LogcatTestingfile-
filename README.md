@@ -1,0 +1,2 @@
+# LogcatTestingfile-
+testig file
